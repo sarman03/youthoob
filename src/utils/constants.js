@@ -16,10 +16,7 @@ export const logo = 'https://datasociety.net/wp-content/uploads/2018/09/Alternat
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
- /* { name: 'JS Mastery', icon: <CodeIcon />, }, */
   { name: 'Coding', icon: <CodeIcon />, },
- /* { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },  */
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
